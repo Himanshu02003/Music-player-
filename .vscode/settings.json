@@ -1,0 +1,10 @@
+{
+    "scm.alwaysShowActions": false,
+    "scm.alwaysShowRepositories": false,
+    "scm.autoReveal": true,
+    "scm.countBadge": "all",
+    "scm.defaultViewMode": "list",
+    "scm.defaultViewSortKey": "path",
+    "scm.providerCountBadge": "hidden",
+    "scm.repositories.sortOrder": "discovery time"
+}
